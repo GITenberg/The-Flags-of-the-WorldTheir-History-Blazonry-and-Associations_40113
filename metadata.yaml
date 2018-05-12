@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36841
     wikipedia: http://en.wikipedia.org/wiki/Frederick_Edward_Hulme
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40113#The-Flags-of-the-WorldTheir-History-Blazonry-and-Associations
 gutenberg_issued: '2012-07-01'
 gutenberg_type: Text
 identifiers:
